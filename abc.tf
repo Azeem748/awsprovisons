@@ -7,6 +7,6 @@ provider "aws" {
   instance_type = "t2.micro"
 
    tags = {
-    name = “newinstance"
+    name = “neeewinstance"
   }
 }
